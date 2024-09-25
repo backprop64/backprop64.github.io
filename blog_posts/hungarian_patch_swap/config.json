@@ -1,0 +1,23 @@
+{ 
+    "title": "Patch-Based Style Synthesis",
+    "author": "Gaurav Kaul",
+    "date": "",
+    "sections": {
+    "by Gaurav Kaul":[
+        ["banner_1.png",4],
+        ["banner_2.png",4],        
+        ["banner_3.png",4]
+    ],
+    "Introduction":[
+        ["intro.txt",9],
+        ["monalisa.png",3]
+    ],
+    "Method":[
+        ["explination.txt",12]
+    ],
+    "Experiments":[
+        ["matisse.png",4],
+        ["explination.txt",8]
+    ]
+}
+}

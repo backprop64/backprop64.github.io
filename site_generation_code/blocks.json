@@ -1,0 +1,32 @@
+{  "blocks": [
+        {
+            "text": "DAMM (DETECT ANY MOUSE MODEL): A FOUNDATION MODEL FOR MOUSE DETECTION",
+            "gif": "data/imgs/DAMM.gif",
+            "click_link": "https://web.eecs.umich.edu/gkaul/DAMM/",
+            "Tags": [
+                "Computer Vision",
+                "AI",
+                "publication"
+            ]
+        },
+        {
+            "text": "SAM DATA ANNOTATOR: SEGMENT ANYTHING MODEL GUI FOR ANNOTATING DETECTION DATASTES",
+            "gif": "data/imgs/sam_annotation.gif",
+            "click_link": "https://github.com/backprop64/sam_annotator",
+            "Tags": [
+                "Computer Vision",
+                "AI"
+            ]
+        },
+        {
+            "text": "REDCAPS: VISION LANGUAGE DATASET WITH 12M+ IMAGE-TEXT PAIRS",
+            "gif": "data/imgs/redcaps.gif",
+            "click_link": "https://redcaps.xyz/",
+            "Tags": [
+                "Computer Vision",
+                "AI",
+                "publication"
+            ]
+        }
+    ]
+}
